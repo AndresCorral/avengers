@@ -1,3 +1,4 @@
 # Misiones
 
-## Investiga a joker
+* Investiga a joker
+* Capturar a RedSkull
