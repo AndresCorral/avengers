@@ -2,3 +2,4 @@
 
 *Deadsot
 *Joker
+* Capitán America
